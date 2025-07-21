@@ -117,7 +117,22 @@ document.addEventListener("DOMContentLoaded", () => {
           <div class="placeholder-content">
             <i class="fas fa-home fa-3x"></i>
             <h3>Home Dashboard</h3>
-            <p>You’re welcome to Official verified financial Management, how can we help you and who gave you our contact ? and do as well  to follow the instructions properly..</p>
+            <p>Welcome to Escrow Support
+
+Your security is our top priority.
+We’re here to help with anything related to your transactions, verifications, account security, or dispute resolution.
+
+1. Need assistance? :
+Use the support options below or browse our help articles to find answers to the most common questions.
+
+2. Verified & Secure :
+All support interactions are encrypted and handled by trained specialists.
+
+
+Start a live chat
+Our agents are available 24/7 to help with your escrow transactions and account concerns.
+
+⏱ Response time: Within 1–3 hours (depending on volume)..</p>
           </div>
         `
         break
